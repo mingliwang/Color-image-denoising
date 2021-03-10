@@ -8,10 +8,8 @@ All rights reserved.
 
 Permission to use the software for research purposes only.
 
-%****************************************************
 
 
-%****************************************************
 
 References
 
